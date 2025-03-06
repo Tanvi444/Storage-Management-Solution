@@ -1,5 +1,7 @@
 # Storage and File Sharing Platform
 
+![image](https://github.com/user-attachments/assets/55db9bec-e7aa-4ddc-9293-dcbcf8b74151)
+
 A storage management and file sharing platform that lets users effortlessly upload, organize, and share files. Built with the latest Next.js 15 and the Appwrite Node SDK, utilizing advanced features for seamless file management.
 
 ## ⚙️ Tech Stack
